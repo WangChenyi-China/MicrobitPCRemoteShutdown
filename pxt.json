@@ -1,0 +1,23 @@
+{
+    "name": "XD",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "magicbit": "github:emakefun/pxt-magicbit#ed42b9f1bf85bcb39101cb4e65054ee3939e6243",
+        "sensors": "github:emakefun/pxt-sensorbit#09d1f52cecb1f7824c74523e52503063b13055b8"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
